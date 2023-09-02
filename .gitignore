@@ -2,3 +2,5 @@
 venv
 cameras.json
 .mypy_cache
+test.*
+data/
